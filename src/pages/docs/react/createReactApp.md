@@ -1,6 +1,6 @@
 ---
 title: npx-create-react-app
-weight: 1
+weight: 0
 seo:
     title: npx-create-react-app
     description: This is the npx-create-react-app page
@@ -22,6 +22,7 @@ seo:
           value: This is the npx-create-react-app page
 template: docs
 ---
+
 
 ---
 
@@ -46,7 +47,6 @@ npx create-react-app my-app
 y-app
 npm start
 Creating a new React app in /mnt/c/MY-WEB-DEV/10-React-V3/05-installing-nodejs/my-app.
-
 
 Installing packages. This might take a couple of minutes.
 Installing react, react-dom, and react-scripts with cra-template...
@@ -146,7 +146,7 @@ Inside that directory, you can run several commands:
 
   yarn eject
     Removes this tool and copies build dependencies, configuration files
-    and scripts into the app directory. If you do this, you can’t go back!
+    and scripts into the app directory. If you do this, you can't go back!
 
 We suggest that you begin by typing:
 
